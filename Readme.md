@@ -40,7 +40,7 @@ This is a simple project I made using Python and Django to understand how blockc
    python manage.py runserver
 Simple implementation of blockchain with python. 
 
-http://127.0.0.1:8000/vote_home
+http://127.0.0.1:8000/vote_home\
 This is a learning project, so it's not meant for real elections.
 
 The blockchain is implemented using Python classes, not using any heavy blockchain library.
